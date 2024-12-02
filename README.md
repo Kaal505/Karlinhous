@@ -1,4 +1,4 @@
-# 🍵 Welcome to Kaal's profile
+# 🍵 Welcome to Shusui's profile
 **`There you go some information of this astonishing developer!`**
 ```py
 class Kaal:
