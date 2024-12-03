@@ -11,11 +11,11 @@ class Kaal:
         }
 
     def introduce(self):
-        intro = "Hello, world! I'm Kaal, your friendly neighborhood coder!\n"
+        intro = "Hi there, I'm Shusui\n"
         intro += "    - " + ', '.join(self.code_languages) + "\n"
         for platform, community in self.tech_communities.items():
             intro += f"    - {platform}: {community}\n"
-        intro += "When I'm coding, collaborating, or creating, I'm always up to learn and grow!\n"
+        intro += "I do freelance art, dev, design\n"
         return intro
 ```
 
@@ -32,15 +32,15 @@ class Kaal:
 ### 📊 Stats
 
 <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-        <img src="https://github-readme-stats.vercel.app/api?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kaalwy's Stats" width="800" height="500"/>
+    <a href="https://github-readme-stats.vercel.app/api?username=Shusuiwy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shusuiwy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Kaalwy's Stats" width="800" height="500"/>
     </a>
     <br>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Kaalwy&theme=tokyonight&hide_border=true">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaalwy&theme=tokyonight&hide_border=true" alt="Kaalwy's Streak" width="800" height="600"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=Shusuiwy&theme=tokyonight&hide_border=true">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shusuiwy&theme=tokyonight&hide_border=true" alt="Kaalwy's Streak" width="800" height="600"/>
     </a>
     <br>
-    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaalwy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Kaalwy's Top Languages" width="500" height="500"/>
+    <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuiwy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuiwy&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Shusuiwy's Top Languages" width="500" height="500"/>
     </a>
 </div>
