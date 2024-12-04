@@ -1,9 +1,9 @@
 # 🍵 Welcome to Shusui's profile
 **`There you go some information of this astonishing developer!`**
 ```py
-class Kaal:
+class Shusui:
     def __init__(self):
-        self.code_languages = ["Lua", "Python", "JavaScript", "C++", "C", "C#", "Java"]
+        self.code_languages = ["Lua", "Python", "TypeScript", "C++", "C", "C#", "Java", "Rust"]
         self.tech_communities = {
             "Discord": "Free Code Camp - Where learning never stops!",
             "Codewars": "The dojo for code warriors seeking challenges!",
