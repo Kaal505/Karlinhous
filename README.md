@@ -31,40 +31,6 @@ struct Shusui {
         std::vector<std::string> secondary = {"JavaScript", "HTML", "CSS"};
         std::string secretTechnique = "220WPM / Accuracy: 95%";
     } perks;
-
-    // You can actually run this
-    void display() const {
-        std::cout << "Class: " << characterClass << "\n";
-        std::cout << "Title: " << title << "\n";
-        std::cout << "Currently Studying: " << currentStudying << "\n\n";
-
-        std::cout << "Current Missions:\n";
-        for (const auto& mission : currentMissions) {
-            std::cout << " - " << mission << "\n";
-        }
-
-        std::cout << "\nSpecial Abilities:\n";
-        std::cout << "Primary: ";
-        for (const auto& skill : perks.primary) {
-            std::cout << skill << " ";
-        }
-        std::cout << "\n";
-
-        std::cout << "Secondary: ";
-        for (const auto& skill : perks.secondary) {
-            std::cout << skill << " ";
-        }
-        std::cout << "\n";
-
-        std::cout << "Secret Technique: " << perks.secretTechnique << "\n";
-    }
-};
-
-int main() {
-    Shusui character;
-    character.display();
-    return 0;
-}
 ```
 
 <br/>
