@@ -13,19 +13,19 @@
 
 ```cpp
 struct Shusui {
-    // Main Character Stats
+    // Shusui Stats
     std::string characterClass = "Fullstack Dev";
     std::string title = "Bad Code Breaker";
     std::string currentStudying = "Data Science";
 
-    // Side Quests
+    // Daily Quests
     std::vector<std::string> currentMissions = {
         "Doing Art Commissions",
         "Coding Webpages",
         "Learning new things everyday!"
     };
 
-    // Special Skills
+    // Skills
     struct Perks {
         std::vector<std::string> primary = {"Python", "C", "React"};
         std::vector<std::string> secondary = {"JavaScript", "HTML", "CSS"};
