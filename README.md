@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shusuiwy&show_icons=true&count_private=true&title_color=3540FE&icon_color=3540FE&text_color=c9d1d9&bg_color=0d1117&border_radius=1.0&border_color=3540FE" alt="Shusui github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuiwy&layout=compact&border_radius=1.0&border_color=3540FE&title_color=3540FE&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shusuidev&show_icons=true&count_private=true&title_color=3540FE&icon_color=3540FE&text_color=c9d1d9&bg_color=0d1117&border_radius=1.0&border_color=3540FE" alt="Shusui github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuidev&layout=compact&border_radius=1.0&border_color=3540FE&title_color=3540FE&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br/>
@@ -36,7 +36,7 @@ struct Shusui {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shusuiwy&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shusuidev&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ### 🎯 Current Story Arc
