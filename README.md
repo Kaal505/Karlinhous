@@ -5,38 +5,57 @@
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shusuidev&show_icons=true&count_private=true&title_color=3540FE&icon_color=3540FE&text_color=c9d1d9&bg_color=0d1117&border_radius=1.0&border_color=3540FE" alt="Shusui github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuidev&layout=compact&border_radius=1.0&border_color=3540FE&title_color=3540FE&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shusuidev&show_icons=true&count_private=true&title_color=5e2222&icon_color=5e2222&text_color=c9d1d9&bg_color=0d1117&border_radius=1.0&border_color=3540FE" alt="Shusui github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuidev&layout=compact&border_radius=1.0&border_color=3540FE&title_color=5e2222&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
 <br/>
 
-```cpp
-struct Shusui {
-    // Shusui Stats
-    std::string characterClass = "Fullstack Dev";
-    std::string title = "Bad Code Breaker";
-    std::string currentStudying = "Data Science";
+```ts
+type Shusui = {
+  // Shusui Stats
+  characterClass: string;
+  title: string;
+  currentStudying: string;
 
-    // Daily Quests
-    std::vector<std::string> currentMissions = {
-        "Doing Art Commissions",
-        "Coding Webpages",
-        "Learning new things everyday!"
-    };
+  // Daily Quests
+  currentMissions: string[];
 
-    // Skills
-    struct Perks {
-        std::vector<std::string> primary = {"Python", "C", "React"};
-        std::vector<std::string> secondary = {"JavaScript", "HTML", "CSS"};
-        std::string secretTechnique = "220WPM / Accuracy: 95%";
-    } perks;
+  // Skills
+  competences: {
+    primary: string[];
+    secondary: string[];
+    secretTechnique: string;
+  };
+};
+
+const shusui: Shusui = {
+  // Shusui Stats
+  characterClass: "Fullstack Dev",
+  title: "Bad Code Breaker",
+  currentStudying: "Data Science",
+
+  // Daily Quests
+  currentMissions: [
+    "Doing Art Commissions",
+    "Coding Webpages",
+    "Learning new things everyday!"
+  ],
+
+  // Skills
+  competences: {
+    softwaredev: ["Python", "Lua", "C", "Java", "Kotlin",
+    webdev: ["HTML", "CSS", "TypeScript"],
+    modernInterfaces: ["React", "Tailwind"],
+    secretTechnique: "No mouse needed you are looking at a Neovim user"
+  }
+};
 ```
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shusuidev&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shusuidev&theme=react&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ### 🎯 Current Story Arc
