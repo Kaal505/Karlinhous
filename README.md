@@ -1,15 +1,8 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=5e2222&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=41a6ff&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5e2222&size=35&center=true&vCenter=true&width=1000&lines=I'm+Shusui;Fullstack+Developer;Welcome+to+my+Profile;Readymade+for+your+tech+company+<3)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Shusui;Fullstack+Developer;Welcome+to+my+Profile;Readymade+for+your+tech+company+<3)](https://git.io/typing-svg)
 </div>
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shusuidev&show_icons=true&count_private=true&title_color=5e2222&icon_color=5e2222&text_color=c9d1d9&bg_color=0d1117&border_radius=1.0&border_color=5e2222" alt="Shusui github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuidev&layout=compact&border_radius=1.0&border_color=5e2222&title_color=5e2222&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<br/>
 
 ```ts
 type Shusui = {
@@ -51,6 +44,13 @@ const shusui: Shusui = {
   }
 };
 ```
+
+<br/>
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Shusuidev&show_icons=true&count_private=true&title_color=41a6ff&icon_color=41a6ff&text_color=c9d1d9&bg_color=0d1117&border_radius=1.0&border_color=41a6ff" alt="Shusui github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shusuidev&layout=compact&border_radius=1.0&border_color=41a6ff&title_color=41a6ff&text_color=c9d1d9&bg_color=0d1117" />
+</div>
 
 <br/>
 
