@@ -1,20 +1,17 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=41a6ff&height=120&section=header"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Shusui;Fullstack+Developer;Welcome+to+my+Profile;Readymade+for+your+tech+company+<3)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=I'm+Shusui;Fullstack+Developer;Welcome+to+my+Portfolio;Readymade+for+your+tech+company+<3)](https://git.io/typing-svg)
 </div>
 
 ```ts
 type Shusui = {
-  // Shusui Stats
   characterClass: string;
   title: string;
   currentStudying: string;
 
-  // Daily Quests
   currentMissions: string[];
 
-  // Skills
   competences: {
     primary: string[];
     secondary: string[];
@@ -23,23 +20,21 @@ type Shusui = {
 };
 
 const shusui: Shusui = {
-  // Shusui Stats
   characterClass: "Fullstack Dev",
-  title: "Bad Code Breaker",
-  currentStudying: "Data Science",
+  title: "Innovator",
+  currentStudying: "DevOps",
 
-  // Daily Quests
   currentMissions: [
     "Doing Art Commissions",
-    "Coding Webpages",
+    "Coding Modern Webpages",
+    "Pondering about the future of mankind",
     "Learning new things everyday!"
   ],
 
-  // Skills
   competences: {
-    softwaredev: ["Python", "Lua", "C", "Java", "Kotlin",
-    webdev: ["HTML", "CSS", "TypeScript"],
-    modernInterfaces: ["React", "Tailwind"],
+    softwaredev: ["Python", "Lua", "C", "Java", "Golang"],
+    webdev: ["HTML", "CSS", "TypeScript", "Kotlin"],
+    frameworks: ["React", "Tailwind"],
     secretTechnique: "No mouse needed you are looking at a Neovim user"
   }
 };
@@ -58,30 +53,21 @@ const shusui: Shusui = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shusuidev&theme=react&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
-### 🎯 Current Story Arc
-
-> *"Trying to find a worthy job that can challenge me and have a nice community at the same time"*
+> *"Trying to make a good difference"*
 
 ### 💻 Tech Stack (Equipped Items)
 
 <div align="center">
   <div style="display: inline_block"><br>
-    <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
+    <img align="left" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="left" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="left" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="left" alt="TailWind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
+    <img align="left" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="left" alt="GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg">
+    <img align="left" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg">
   </div>
 </div>
-
-### 🌟 Achievements
-
-```plaintext
-- Debugger        [█████████████████████████████]  100%
-- Swift and Clean [█████████████████████████████]  100%
-- Book Fanatic    [█████████████████████████████]  100%
-```
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=41a6ff&height=120&section=footer"/>
