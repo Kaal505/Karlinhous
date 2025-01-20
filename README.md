@@ -35,7 +35,7 @@ const shusui: Shusui = {
     softwaredev: ["Python", "Lua", "C", "Java", "Golang"],
     webdev: ["HTML", "CSS", "TypeScript", "Kotlin"],
     frameworks: ["React", "Tailwind"],
-    secretTechnique: "No mouse needed you are looking at a Neovim user"
+    secretTechnique: "No mouse required you are looking at a Neovim user"
   }
 };
 ```
